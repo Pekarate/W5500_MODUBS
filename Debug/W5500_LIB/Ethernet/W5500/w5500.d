@@ -1,0 +1,7 @@
+W5500_LIB/Ethernet/W5500/w5500.o: ../W5500_LIB/Ethernet/W5500/w5500.c \
+ ../W5500_LIB/Ethernet/W5500/w5500.h \
+ D:/000.Freelancer/01.W5500_MODUBS/W5500_MODUBS/W5500_LIB/Ethernet/wizchip_conf.h \
+ D:/000.Freelancer/01.W5500_MODUBS/W5500_MODUBS/W5500_LIB/Ethernet/W5500/w5500.h
+../W5500_LIB/Ethernet/W5500/w5500.h:
+D:/000.Freelancer/01.W5500_MODUBS/W5500_MODUBS/W5500_LIB/Ethernet/wizchip_conf.h:
+D:/000.Freelancer/01.W5500_MODUBS/W5500_MODUBS/W5500_LIB/Ethernet/W5500/w5500.h:
